@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - stable
+  pull_request:
+    branches:
+      - stable
 
 jobs:
   run_unit_tests:
