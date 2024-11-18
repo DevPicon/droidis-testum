@@ -1,9 +1,6 @@
 name: Android Run Unit Tests
 
 on:
-  push:
-    branches:
-      - stable
   pull_request:
     branches:
       - stable
