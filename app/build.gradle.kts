@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace = "la.devpicon.android.githubactions"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "la.devpicon.android.githubactions"
         minSdk = 24
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
