@@ -1,0 +1,1 @@
+[![Android Build Debug APK](https://github.com/DevPicon/droidis-testum/actions/workflows/build-debug-apk.yml/badge.svg)](https://github.com/DevPicon/droidis-testum/actions/workflows/build-debug-apk.yml)
